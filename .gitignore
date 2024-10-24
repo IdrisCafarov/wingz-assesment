@@ -1,0 +1,25 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+# Environment variables and configuration files
+.env
+myenv
+*.env
+
+# Virtual environment directories
+venv/
+env/
+ENV/
+
+# IDE and editor directories
+.vscode/
+.idea/

@@ -25,7 +25,7 @@ Make sure you have the following tools installed on your machine:
 
 2. **Create environment variables:**
     ```bash
-    cp .env.example .env
+    cp .env.sample .env
 
 3. **Build and start Docker containers:**
     ```bash
